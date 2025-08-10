@@ -1,0 +1,4 @@
+Checklist de Release
+Manual de Usuario
+
+Formato .md
