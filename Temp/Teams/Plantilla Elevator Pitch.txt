@@ -1,0 +1,11 @@
+Para los estudiantes de la Universidad Católica de Oriente (UCO) que requieren medición y desarrollo de su razonamiento cuantitativo, la variable de Razonamiento Cuantitativo es una parte del software de CogniCare que aporta al desarrollo estas habilidades. A diferencia de los métodos tradicionales de evaluación de este, que suelen ser tediosos y poco motivadores, nuestro producto ofrece una experiencia de aprendizaje gamificada, atractiva y efectiva.
+
+Donde:
+
+-<cliente/público objetivo>: Estudiantes de UCO
+-<necesidad del cliente/público y oportunidad>: Medir y entrenar las habilidades cognitivas en el lado de razonamiento cuantitativo.
+-<nombre del producto>: CogniCare (Variable Razonamiento Cuantitativo)
+-<tipo de producto>: Escritorio
+-<principal beneficio o razón del producto>: Sentimos que los estudiantes requieren de un aprendizaje más activo para poder medir bien sus habilidades cuantitativas, así que decidimos participar en este proyecto, con la gamificacion de esta con la mentalidad del desarrollo de un videojuego.
+-<aplicación o situación actual>: Los métodos existentes para medir y calificar las habilidades cuantitativas en los estudiantes, en las que hay poca motivación para los estudiantes.
+-<principal diferenciación>: Este proyecto, en general, es una colaboración entre las facultades de Psicología e Ingeniería de la UCO, su principal diferenciación se relaciona con su gamificación del aprendizaje y de la medición de las habilidades cuantitativas de los estudiantes.
