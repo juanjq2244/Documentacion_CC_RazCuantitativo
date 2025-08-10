@@ -1,0 +1,4 @@
+Modelo Dominio Anémico
+Requerimientos
+
+En formato md

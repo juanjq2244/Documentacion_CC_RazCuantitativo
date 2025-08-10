@@ -1,0 +1,16 @@
+Welcome to the Razonamiento Cuantitativo Documentation Repository!
+
+Over here, you'll find each and every document that was scraped from Teams
+and our local machines organized according to the example documentation
+repo that the base component sent.
+
+NOTE: There are Three branches on this repository:
+
+- Main --> Juanjo
+       --> Jacobo
+
+You're expected to publish your changes on the documentation under the branch
+named after you and Pull Request.
+
+There is an extra folder named 'Temp' and all of the documents that you managed
+to find are under that foder. This folder is not on the main branch.

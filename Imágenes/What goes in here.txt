@@ -1,0 +1,3 @@
+Not sure if we need to have this folder, but in any case:
+
+Aquí van todas las imagenes relacionadas con los manuales de instalación y de usuario.
