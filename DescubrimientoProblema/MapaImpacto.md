@@ -1,3 +1,3 @@
 ### Mapa Impacto
 
-![Mapa Impacto](Imágenes/MapaImpacto.png)
+![Mapa Impacto](Imagenes/MapaImpacto.png)
