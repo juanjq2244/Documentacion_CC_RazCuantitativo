@@ -1,8 +1,8 @@
 # Documentación Cognicare Variable Razonamiento Cuantitativo
 
 ## 1. Descubrimiento del problema
-1. [Visión]
-2. [Mapa de Impacto]
+1. [Visión](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/DescubrimientoProblema/1.1%20Vision.md)
+2. [Mapa de Impacto](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/DescubrimientoProblema/1.2%20Mapa%20de%20Impacto.md)
 ## 2. Diseño estrategico
 1. Modelado de dominio 
 2. [Requerimientos]
