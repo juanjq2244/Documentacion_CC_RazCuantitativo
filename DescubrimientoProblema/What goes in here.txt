@@ -1,4 +1,0 @@
-Visión
-Mapa de Impacto
-
-formato .md
