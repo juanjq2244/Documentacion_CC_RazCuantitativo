@@ -2,8 +2,7 @@
 
 ## 1. Descubrimiento del problema
 1. [Visión]
-
-2. [Mapa de impacto]
+2. [Mapa de Impacto]
 ## 2. Diseño estrategico
 1. Modelado de dominio 
 2. [Requerimientos]

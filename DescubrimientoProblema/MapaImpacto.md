@@ -1,3 +1,0 @@
-### Mapa Impacto
-
-![Mapa Impacto](Imagenes/MapaImpacto.png)
