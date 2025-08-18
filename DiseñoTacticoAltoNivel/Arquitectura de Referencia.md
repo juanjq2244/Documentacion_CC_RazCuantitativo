@@ -1,5 +1,5 @@
 # Arquitectura de Referencia
-![Arquitectura de Referencia](/Imagenes/Arquitectura_Referencia.jpg)
+![Arquitectura de Referencia](/Imagenes/Arquetipo_Referencia.jpg)
 
 ## 1. Interacción del Usuario (User → Web/Http)
 
@@ -27,23 +27,28 @@ Este componente es el **repositorio de información persistente** del sistema.
 El Back End interactúa con él para:
 
 - **Almacenar Datos**:  
-  Guarda información como perfiles de usuario, credenciales y el progreso detallado en las variables de entrenamiento.
+  Guarda información como el opcion de respuesta dentro de un sesion de entrenamiento.
 
 - **Asegurar la Integridad**:  
   Garantiza que los datos se almacenen de manera consistente y fiable, manteniendo la coherencia del sistema.
 
 ---
 
-## 4. Lógica Especializada (Back End → Variables de Entrenamiento)
+## 4. Lógica Especializada (Back End → Front End → Tareas RC)
 
-### Variables de Entrenamiento
-Este componente representa un **servicio o módulo externo especializado** que encapsula la lógica compleja relacionada con las variables de entrenamiento.
+### Front End
+Este componente representa el modulo encargado de visualizar el contenido de la pagina.
 
 El Back End se comunica con este servicio para:
 
-- Obtener datos específicos de entrenamiento.
-- Validar interacciones, como respuestas o acciones del usuario.
-- Generar contenido especializado.
+- Enviar datos especificos de entrenamiento.
+
+### Tareas RC
+Este componente representa el modulo encargado de visualizar los juegos de la variable.
+
+El Back End/Front End se comunica con este servicio para:
+
+- Recibir datos para luego visualizar el juego en si.
 
 **Línea Punteada de Retorno**:  
 Este servicio devuelve los datos o resultados procesados al Back End, que los utiliza para:
@@ -54,9 +59,9 @@ Este servicio devuelve los datos o resultados procesados al Back End, que los ut
 
 # Arquetipo de Referencia
 
-![Arquetipo de Referencia](/Imagenes/Arquetipo_Referencia.jpg)
+![Arquetipo de Referencia](/Imagenes/Arquitectura_Referencia.jpg)
 
-La arquitectura propuesta representa el módulo centralizador de una aplicación de entrenamiento cognitivo enfocada en variables de entrenamiento. Este componente actúa como el punto de entrada principal para los usuarios y la gestión de las variables de entrenamiento, además de administrar los usuarios y su progreso individual en cada variable.
+La arquitectura propuesta representa el módulo centralizador de una aplicación de entrenamiento cognitivo enfocada en la sesion entrenamiento. Este componente actúa como el punto de entrada principal para los usuarios y su progreso individual.
 
 # Componentes y su Funcionamiento
 
@@ -100,7 +105,7 @@ Es la base de datos relacional utilizada para almacenar la información persiste
 Principalmente, guardará:
 
 - Información de los usuarios (opcion de respuesta, tiempo respuesta, etc.).
-- Datos transaccionales y de estado relacionados con el progreso de cada usuario en las diferentes variables de entrenamiento.
+- Datos transaccionales y de estado relacionados con el progreso de cada usuario en su sesion de entrenamiento.
 
 Su naturaleza relacional es ideal para modelar estas relaciones complejas y asegurar la integridad de los datos.
 
@@ -188,13 +193,13 @@ Angular ofrece una arquitectura sólida para grandes aplicaciones empresariales,
   Garantiza integridad en los datos transaccionales como el progreso y los puntajes de los jugadores.
 
 - **Integridad de Datos**:  
-  Soporte para claves primarias/foráneas, esquemas robustos e integridad referencial entre usuarios y variables de entrenamiento.
+  Soporte para claves primarias/foráneas, esquemas robustos e integridad referencial entre usuarios y sesiones de entrenamiento.
 
 - **Escalabilidad Horizontal y Vertical**:  
   Soporta tanto aumento de recursos en un solo servidor como técnicas como sharding o réplicas para escalar horizontalmente.
 
 - **Flexibilidad (JSONB)**:  
-  Al ser relacional pero con soporte para JSONB, permite almacenar datos semi-estructurados sin perder el control relacional. Perfecto para variables de entrenamiento de estructura cambiante.
+  Al ser relacional pero con soporte para JSONB, permite almacenar datos semi-estructurados sin perder el control relacional.
 
 - **Comunidad y Ecosistema**:  
   Herramientas maduras, extensiones útiles y amplia documentación para facilitar su operación y crecimiento.
