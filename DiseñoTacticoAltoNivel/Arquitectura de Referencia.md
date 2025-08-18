@@ -1,5 +1,5 @@
 # Arquitectura de Referencia
-![Arquitectura de Referencia](/Imagenes/Arquetipo_Referencia.jpg)
+![Arquitectura de Referencia](/Imagenes/Arquitectura_Referencia.jpg)
 
 ## 1. Interacción del Usuario (User → Web/Http)
 
@@ -59,7 +59,7 @@ Este servicio devuelve los datos o resultados procesados al Back End, que los ut
 
 # Arquetipo de Referencia
 
-![Arquetipo de Referencia](/Imagenes/Arquitectura_Referencia.jpg)
+![Arquetipo de Referencia](/Imagenes/Arquetipo_Referencia.jpg)
 
 La arquitectura propuesta representa el módulo centralizador de una aplicación de entrenamiento cognitivo enfocada en la sesion entrenamiento. Este componente actúa como el punto de entrada principal para los usuarios y su progreso individual.
 
