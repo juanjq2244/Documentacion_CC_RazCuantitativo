@@ -4,8 +4,8 @@
 1. [Visión](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/DescubrimientoProblema/1.1%20Vision.md)
 2. [Mapa de Impacto](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/DescubrimientoProblema/1.2%20Mapa%20de%20Impacto.md)
 ## 2. Diseño estrategico
-1. Modelado de dominio 
-2. [Requerimientos]
+1. [Modelado de dominio]
+2. [Requerimientos](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oEstrategico/2.2%20Requerimientos.md)
 3. [Mapa de historias de usuario]
 4. [Historias de Usuario]
 5. [Criterios de aceptación]
