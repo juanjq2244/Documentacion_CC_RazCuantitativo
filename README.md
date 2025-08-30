@@ -26,5 +26,5 @@
 ## 6. Entregas y despliegue
 1. [Estrategia de entrega]
 2. [Checklist de Release]
-3. [Manual de usuario]
+3. [Manual de usuario](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/EntregasDespliegue/6.3.%20Manual%20de%20Usuario.md)
 4. [Manual de instalación]
