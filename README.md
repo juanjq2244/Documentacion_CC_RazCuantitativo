@@ -15,15 +15,12 @@
 3. [Justificiación de alternativa de solución](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoAltoNivel/Arquitectura%20de%20Referencia.md)
 4. [Plataforma tecnologica](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoAltoNivel/Arquitectura%20de%20Referencia.md)
 ## 4. Diseño tactico detallado
-1. [Diagrama de datos]
-2. [Diagrama de clases]
-3. [Diagrama de paquetes]
-4. [Diagrama de componentes]
-5. [Contratos de API]
-## 5. Construccion
-1. [Analisis estatico de codigo]
-2. [Pruebas unitarias]
-## 6. Entregas y despliegue
+1. [Diagrama de datos](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.1.%20Modelo%20de%20Datos.md)
+2. [Diagrama de clases](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.2.%20Diagrama%20de%20Clases.md)
+3. [Diagrama de paquetes](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.3.%20Diagrama%20de%20Paquetes.md)
+4. [Diagrama de componentes](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.4.%20Diagrama%20de%20Componentes.md)
+5. [Contratos de API](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.5.%20Contratos%20de%20API.md)
+## 5. Entregas y despliegue
 1. [Estrategia de entrega]
 2. [Checklist de Release]
 3. [Manual de usuario](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/EntregasDespliegue/6.3.%20Manual%20de%20Usuario.md)
