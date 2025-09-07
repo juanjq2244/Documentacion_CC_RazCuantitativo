@@ -21,7 +21,8 @@
 4. [Diagrama de componentes](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.4.%20Diagrama%20de%20Componentes.md)
 5. [Contratos de API](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.5.%20Contratos%20de%20API.md)
 ## 5. Construccion
-1. [Analisis Estatico/Prueba Unitaria](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Construccion/5.1.%20Analisis%20Estatico.md)
+1. [Analisis estatico de codigo](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Construccion/5.1.%20Analisis%20Estatico.md)
+2. [Pruebas unitarias](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Construccion/5.1.%20Analisis%20Estatico.md)
 ## 6. Entregas y despliegue
 1. [Estrategia de entrega]
 2. [Checklist de Release]
