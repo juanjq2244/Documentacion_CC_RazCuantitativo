@@ -6,9 +6,9 @@
 ## 2. Diseño estrategico
 1. Modelado de dominio ([Modelo Anemico](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oEstrategico/2.1.1.%20ModeladoDominioAnemico.md) y [Enriquecido](https://uconet.sharepoint.com/:x:/s/Cognicare-Razonamientocuantitativo/EdHxaz0woYJImufNBx87xTMB-IThYm9Pn3Ap2aXvRMegIA?e=4ZY6cW))
 2. [Requerimientos](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oEstrategico/2.2%20Requerimientos.md)
-3. [Mapa de historias de usuario](https://uconet.sharepoint.com/:x:/r/sites/Cognicare-Razonamientocuantitativo/Shared%20Documents/Razonamiento%20cuantitativo/Documentaci%C3%B3n/1.%20Artefactos%20t%C3%A9cnicos/1.%20Artefactos%20estrat%C3%A9gicos/4.%20Mapa%20de%20historias%20de%20usuario/Mapa%20de%20Historias%20de%20Usuario%20-%20Razonamiento%20Cuantitativo.xlsx?d=w686f1afb40ce46b5a32684a2439a5c51&csf=1&web=1&e=2MpAPb)
-4. [Historias de Usuario](https://uconet.sharepoint.com/:x:/r/sites/Cognicare-Razonamientocuantitativo/Shared%20Documents/Razonamiento%20cuantitativo/Documentaci%C3%B3n/1.%20Artefactos%20t%C3%A9cnicos/1.%20Artefactos%20estrat%C3%A9gicos/4.%20Mapa%20de%20historias%20de%20usuario/Mapa%20de%20Historias%20de%20Usuario%20-%20Razonamiento%20Cuantitativo.xlsx?d=w686f1afb40ce46b5a32684a2439a5c51&csf=1&web=1&e=2MpAPb)
-5. [Criterios de aceptación](https://uconet.sharepoint.com/:x:/r/sites/Cognicare-Razonamientocuantitativo/Shared%20Documents/Razonamiento%20cuantitativo/Documentaci%C3%B3n/1.%20Artefactos%20t%C3%A9cnicos/1.%20Artefactos%20estrat%C3%A9gicos/4.%20Mapa%20de%20historias%20de%20usuario/Mapa%20de%20Historias%20de%20Usuario%20-%20Razonamiento%20Cuantitativo.xlsx?d=w686f1afb40ce46b5a32684a2439a5c51&csf=1&web=1&e=2MpAPb)
+3. [Mapa de historias de usuario](https://uconet.sharepoint.com/:x:/s/Cognicare-Razonamientocuantitativo/Efsab2jOQLVGoyaEokOaXFEB7pbOYEePVUi-FA4fdMQjKg?e=jAVDCL)
+4. [Historias de Usuario](https://uconet.sharepoint.com/:x:/s/Cognicare-Razonamientocuantitativo/Efsab2jOQLVGoyaEokOaXFEB7pbOYEePVUi-FA4fdMQjKg?e=jAVDCL)
+5. [Criterios de aceptación](https://uconet.sharepoint.com/:x:/s/Cognicare-Razonamientocuantitativo/Efsab2jOQLVGoyaEokOaXFEB7pbOYEePVUi-FA4fdMQjKg?e=jAVDCL)
 ## 3. Diseño tactico alto nivel
 1. [Arquitectura de referencia](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoAltoNivel/Arquitectura%20de%20Referencia.md)
 2. [Drivers Arquitectonicos](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoAltoNivel/Arquitectura%20de%20Referencia.md)
@@ -24,7 +24,7 @@
 1. [Analisis estatico de codigo](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Construccion/5.1.%20Analisis%20Estatico.md)
 2. [Pruebas unitarias](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Construccion/5.1.%20Analisis%20Estatico.md)
 ## 6. Entregas y despliegue
-1. [Estrategia de entrega](https://uconet.sharepoint.com/:x:/r/sites/Cognicare-Razonamientocuantitativo/Shared%20Documents/Razonamiento%20cuantitativo/Documentaci%C3%B3n/1.%20Artefactos%20t%C3%A9cnicos/1.%20Artefactos%20estrat%C3%A9gicos/4.%20Mapa%20de%20historias%20de%20usuario/Mapa%20de%20Historias%20de%20Usuario%20-%20Razonamiento%20Cuantitativo.xlsx?d=w686f1afb40ce46b5a32684a2439a5c51&csf=1&web=1&e=2MpAPb)
+1. [Estrategia de entrega](https://uconet.sharepoint.com/:x:/s/Cognicare-Razonamientocuantitativo/Efsab2jOQLVGoyaEokOaXFEB7pbOYEePVUi-FA4fdMQjKg?e=jAVDCL)
 2. [Checklist de Release](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/EntregasDespliegue/6.2.%20Checklist%20de%20Release.md)
 3. [Manual de usuario](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/EntregasDespliegue/6.3.%20Manual%20de%20Usuario.md)
 4. [Manual de instalación](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/ManualInstalacion/ManualInstalacion.md)
