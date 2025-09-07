@@ -20,7 +20,9 @@
 3. [Diagrama de paquetes](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.3.%20Diagrama%20de%20Paquetes.md)
 4. [Diagrama de componentes](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.4.%20Diagrama%20de%20Componentes.md)
 5. [Contratos de API](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoDetallado/4.5.%20Contratos%20de%20API.md)
-## 5. Entregas y despliegue
+## 5. Construccion
+1. [Analisis Estatico](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Construccion/5.1.%20Analisis%20Estatico.md)
+## 6. Entregas y despliegue
 1. [Estrategia de entrega]
 2. [Checklist de Release]
 3. [Manual de usuario](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/EntregasDespliegue/6.3.%20Manual%20de%20Usuario.md)
