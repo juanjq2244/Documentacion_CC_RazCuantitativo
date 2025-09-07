@@ -140,3 +140,5 @@ Para compilar el proyecto para la web, se pueden realizar estos pasos:
 ### 5.3. Edición del Backend
 
 Todo relacionado con el Backend se encuentra en "\RazonamientoCuantitativoBackEnd\export\react", cualquier edición se puede realizar con el IDE **Visual Studio Code (VS Code)**.
+
+[Volver](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/tree/main)
