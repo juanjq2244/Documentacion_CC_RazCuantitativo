@@ -8,9 +8,9 @@
    * [Modelo anemico](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oEstrategico/2.1.1.%20ModeladoDominioAnemico.md) 
    * [Enriquecido Excel](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/ModeloEnriquecido.xlsx)
 2. [Requerimientos](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oEstrategico/2.2%20Requerimientos.md)
-3. [Mapa de historias de usuario](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/HistoriasUsuario.xlsx)
-4. [Historias de Usuario](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/HistoriasUsuario.xlsx)
-5. [Criterios de aceptación](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/HistoriasUsuario.xlsx)
+3. [Mapa de historias de usuario (Excel - Hoja 2)](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/HistoriasUsuario.xlsx)
+4. [Historias de Usuario (Excel - Hoja 1)](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/HistoriasUsuario.xlsx)
+5. [Criterios de aceptación (Excel - Hoja 4)](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/HistoriasUsuario.xlsx)
 ## 3. Diseño tactico alto nivel
 1. [Arquitectura de referencia](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoAltoNivel/Arquitectura%20de%20Referencia.md)
 2. [Drivers Arquitectonicos](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Dise%C3%B1oTacticoAltoNivel/Arquitectura%20de%20Referencia.md)
@@ -26,7 +26,7 @@
 1. [Analisis estatico de codigo](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Construccion/5.1.%20Analisis%20Estatico.md)
 2. [Pruebas unitarias](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Construccion/5.1.%20Analisis%20Estatico.md)
 ## 6. Entregas y despliegue
-1. [Estrategia de entrega](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/HistoriasUsuario.xlsx)
+1. [Estrategia de entrega (Excel - Hoja 3)](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/Archivos/Excel/HistoriasUsuario.xlsx)
 2. [Checklist de Release](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/EntregasDespliegue/6.2.%20Checklist%20de%20Release.md)
 3. [Manual de usuario](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/EntregasDespliegue/6.3.%20Manual%20de%20Usuario.md)
 4. [Manual de instalación](https://github.com/juanjq2244/Documentacion_CC_RazCuantitativo/blob/main/ManualInstalacion/ManualInstalacion.md)
